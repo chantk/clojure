@@ -16,5 +16,4 @@ clojure: multithreaded programming.
 clojure:
 clojure: Clojure is a dialect of Lisp, and shares with Lisp the code-as-data
 clojure: philosophy and a powerful macro system.
-clojure: 
 clojure: Homepage: https://clojure.org/
